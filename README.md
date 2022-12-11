@@ -26,4 +26,4 @@ Output
 
 # Student Teacher Model 
 - This part is in phase1.ipynb
-- Architechture for it is as described in Phase 1 training of [Get Fooled for the Right Reason (https://proceedings.neurips.cc/paper/2021/file/6a971e08a01e6676d0f1a6e0dacbbd67-Paper.pdf)
+- Architechture for it is as described in Phase 1 training of [Get Fooled for the Right Reason](https://proceedings.neurips.cc/paper/2021/file/6a971e08a01e6676d0f1a6e0dacbbd67-Paper.pdf)
